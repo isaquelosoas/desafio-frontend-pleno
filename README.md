@@ -10,7 +10,7 @@ Esperamos que tenha um ótimo desempenho no teste e venha junto com o time const
 O objetivo principal deste desafio é avaliar sua capacidade de construir uma interfarce utilizando ferramentas semelhantes às que usamos aqui na TOTVS Piauí.
 <br>
 
-### Requisitos que devem constar no projeto são:
+#### Requisitos que devem constar no projeto são:
 
 - [JQuery](https://jquery.com/)
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
@@ -18,7 +18,7 @@ O objetivo principal deste desafio é avaliar sua capacidade de construir uma in
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 <br>
 
-### Além dos requisitos citados acima, vamos avaliar os seguintes pontos:
+#### Além dos requisitos citados acima, vamos avaliar os seguintes pontos:
 
 - Estrutura Limpa
 - Usabilidade
