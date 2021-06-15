@@ -5,7 +5,7 @@ Parabéns por ser selecionado!
 Esperamos que tenha um ótimo desempenho no teste e venha junto com o time construir processos de negócios fantásticos!
 <br>
 
-# O que esperamos? 🤨
+## O que esperamos? 🤨
 
 O objetivo principal deste desafio é avaliar sua capacidade de construir uma interfarce utilizando ferramentas semelhantes às que usamos aqui na TOTVS Piauí.
 <br>
@@ -25,7 +25,7 @@ O objetivo principal deste desafio é avaliar sua capacidade de construir uma in
 - Performance
 <br>
 
-# Sobre o desafio 🤯
+## Sobre o desafio 🤯
 
 O Objetivo será implementar uma interface de listagem músicas.
 
@@ -36,7 +36,7 @@ Para isso será utilizado a API do Deezer para requisitar os dados necessários,
 O projeto deverá ser entregue em forma de repositório público com as instruções de instalação e execução.
 <br>
 
-# Direcionamento 😇
+## Direcionamento 😇
 ![Preview](images/preview.png)
 <br>
 
@@ -54,7 +54,7 @@ Caso você queira acessar novas rotas, adicionar no ```proxy.js```
 - Listagem
 <br>
 
-# Diferenciais que podem agradar:
+## Diferenciais que podem agradar:
 
 Fique à vontade para adicionar novas funcionalidades ou incrementar no design e usabilidade da view.
 <br>
