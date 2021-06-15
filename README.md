@@ -52,11 +52,16 @@ Caso você queira acessar novas rotas, adicionar no ```proxy.js```
 #### Você pode seguir design acima ou não:
 
 - Header com logos da TOTVS PI Digital Workplace e Deezer
-- Input para pesquisa de músicas
+- Input para pesquisa de músicas (quando em branco deve voltar para a listagem principal)
 - Listagem
 <br>
 
 ## Diferenciais que podem agradar:
 
 Fique à vontade para adicionar novas funcionalidades, por exemplo player funcional com preview de 30 segundos da música ou incrementar no design e usabilidade da view.
+<br>
+
+## Entrega:
+
+Disponibilize em seu repositório público e nos envie por email com assunto **"Analista / Desenvolvedor Pleno"** jutamente com seu currículo para **wilson.sousa@totvs.com.br** até 19/06/2021
 <br>
