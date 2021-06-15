@@ -4,3 +4,11 @@ $( document ).ready(function() {
   // You Code Javascript
   // fetch().then...
 });
+
+function searchForTracks() {
+  // You Code Javascript
+}
+
+function goBackInitialTracks() {
+  // You Code Javascript
+}
