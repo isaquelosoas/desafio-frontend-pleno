@@ -9,7 +9,7 @@ Esperamos que tenha um ótimo desempenho no teste e venha junto com o time const
 
 O objetivo principal deste desafio é avaliar sua capacidade de construir uma interfarce utilizando ferramentas semelhantes às que usamos aqui na TOTVS Piauí.
 
-Importante! Este desafio é idêntico ao aplicado para nossos candidatos de nível júnior, porém neste aqui seremos mais rigorosos em algumas questões técnicas, fique atento se está implementando o projeto de acordo com os requisitos e diferenciais listados abaixo. Capriche!
+**Importante!** Este desafio é idêntico ao aplicado para nossos candidatos de nível júnior, porém neste aqui seremos mais rigorosos em algumas questões técnicas, fique atento se está implementando o projeto de acordo com os requisitos e diferenciais listados abaixo. Capriche!
 <br>
 
 #### Requisitos que devem constar no projeto são:
@@ -42,7 +42,7 @@ O projeto deverá ser entregue em forma de repositório público com as instruç
 ![Preview](images/preview.png)
 <br>
 
-Importante! O Deezer precisa ser requisitado do lado do servidor ou com uma proxy, deixamos um configurado em ```http://localhost:3333```, basta executar ```yarn proxy```.
+**Importante!** O Deezer precisa ser requisitado do lado do servidor ou com uma proxy, deixamos um configurado em ```http://localhost:3333```, basta executar ```yarn proxy```.
 
 A Proxy já está configurada para as rotas ```/chart/tracks``` e ```/search```, respectivamente para consultar as músicas mais populares e pesquisar por uma música, álbum ou artista específico.
 
