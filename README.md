@@ -8,6 +8,8 @@ Esperamos que tenha um ótimo desempenho no teste e venha junto com o time const
 ## O que esperamos? 🤨
 
 O objetivo principal deste desafio é avaliar sua capacidade de construir uma interfarce utilizando ferramentas semelhantes às que usamos aqui na TOTVS Piauí.
+
+Importante! Este desafio é idêntico ao aplicado para nossos candidatos de nível júnior, porém neste aqui seremos mais rigorosos em algumas questões técnicas, fique atento se está implementando o projeto de acordo com os requisitos e diferenciais listados abaixo. Capriche!
 <br>
 
 #### Requisitos que devem constar no projeto são:
@@ -47,7 +49,7 @@ A Proxy já está configurada para as rotas ```/chart/tracks``` e ```/search```,
 Caso você queira acessar novas rotas, adicionar no ```proxy.js```
 <br>
 
-#### Siga design acima:
+#### Você pode seguir design acima ou não:
 
 - Header com logos da TOTVS PI Digital Workplace e Deezer
 - Input para pesquisa de músicas
@@ -56,5 +58,5 @@ Caso você queira acessar novas rotas, adicionar no ```proxy.js```
 
 ## Diferenciais que podem agradar:
 
-Fique à vontade para adicionar novas funcionalidades ou incrementar no design e usabilidade da view.
+Fique à vontade para adicionar novas funcionalidades, por exemplo player funcional com preview de 30 segundos da música ou incrementar no design e usabilidade da view.
 <br>
