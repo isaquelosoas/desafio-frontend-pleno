@@ -24,14 +24,6 @@ $( document ).ready(function() {
     !$("#search").val()?goBackInitialTracks():searchForTracks($("#search").val())
   })
 });
-function preview(url){
-  console.log(url)
-  const preview = new Audio(url)
-  preview.addEventListener("canplaythrough",()=>{
-    return preview
-  })
-  return
-}
 function listTracks(tracks){ 
   $("#song_list").empty()   
   console.log(tracks)
