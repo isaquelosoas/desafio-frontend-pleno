@@ -50,5 +50,117 @@ a {
 p {
   margin: 0 !important;
 }
-
+.logo{  
+  margin: 10px;
+  max-width: 200px;
+}
+.vertical_line{
+  border-right: 1px solid black;
+  align-self: stretch;
+ 
+}
+header{
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.search{
+  display: flex;
+  justify-content: center;
+}
+#search{
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 5px;
+  width: 100%;
+  max-width: 600px;
+  margin: 5px;
+}
+#search button{
+  color:white;
+}
+.search fieldset{
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+#song_list{
+  
+  padding: 0;
+  list-style: none;
+  margin: 5px;  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#song_list li{
+  width: 100%;
+  max-width: 700px;  
+  border-radius: 10px;
+  border-bottom: 1px solid gray;
+  padding: 5px;
+  transition:all 0.3s;
+  margin-top: 15px;
+}
+li.loading{
+  height: 90px;
+  background-color: grey; 
+  transition: all 0.2s; 
+  animation-name: fade;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+@keyframes fade {
+  0% {background-color: rgba(128, 128,  128, 0.5);}
+  50%{background-color: rgba(128, 128,  128, 1);}
+  100%{background-color: rgba(128, 128,  128, 0.5)}
+  
+}
+li.loading:hover{
+  background-color: grey;
+}
+#song_list li:hover{
+  background-color:ivory;
+  border-right: 1px solid gray;
+  box-shadow: 1px 1px 1px gray;
+}
+#song_list li a{
+  display: grid;
+  align-items: center;
+  flex-direction: row;
+  grid-template-columns: 70px auto 70px;
+}
+#song_list li a img{
+  width: 70px;
+  height: 70px;
+}
+#song_list a div{
+  padding-left:10px ;
+}
+#song_list h2{
+  font-size: larger;
+  font-weight: bold;
+}
+#song_list h3{
+  font-size: medium;
+  font-weight: normal;
+}
+#song_list li a span{
+  font-size: large;
+  font-weight: bold;
+}
+#song_list li a img{
+  width: 70;
+  height: 70;
+  border-radius: 10px;
+}
 /* You Code CSS */

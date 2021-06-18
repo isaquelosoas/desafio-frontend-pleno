@@ -15,6 +15,22 @@
   <script src="custom.js"></script>
 </head>
 <body>
-  <!-- You Code HTML -->
+  <header>
+    <a ><img class="logo" src="images/logo.png"/></a>
+    <div class="vertical_line"></div>
+    <a ><img class="logo" src="images/deezer.png"/></a>
+  </header>
+  <main>
+    <form class="search">
+      <fieldset>
+        <input placeholder="Buscar faixas, álbuns, artistas e mais " type="text" id="search" name="search"/> 
+        <button type="button" id="submit" class="btn btn-primary">Buscar</button>         
+      </fieldset>
+    </form>
+    <ul id="song_list">     
+      <li class="loading" onmouseover="playPreview('oi')">
+      </li>
+    </ul>  
+  </main>
 </body>
 </html>
