@@ -5,7 +5,7 @@ Este projeto foi feito para o desafio frontend pleno da TOTV PI
 Para visualização do projeto seguir 3 simples passos:
 
 1. Clonar este repositório
-2. executar o comando ````yarn proxy```
+2. executar o comando ```yarn proxy```
 3. abrir o arquivo ```index.html``` no navegador
 <br>
 
