@@ -20,8 +20,4 @@ Para visualização do projeto seguir 3 simples passos:
 
 
 
-
-## Entrega:
-
-Disponibilize em seu repositório público e nos envie por email com assunto **"Analista / Desenvolvedor Pleno"** jutamente com seu currículo para **wilson.sousa@totvs.com.br** até 19/06/2021
-<br>
+![totvs](https://user-images.githubusercontent.com/60038289/122488360-b5230980-cfb3-11eb-9e89-33ae8e2a1c6f.png)
